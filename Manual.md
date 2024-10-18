@@ -1,22 +1,20 @@
 ## Game Setup (page 2)
 
-_(Before playing for the first time, carefully punch all the tiles out of the counter sheets.)_
-
 Place the **Gameboard** in the middle of the table. It shows:
 
-**5 phase spaces** (A-E)
+- **5 phase spaces** (A-E)
 
-**5 round spaces**
+- **5 round spaces**
 
-**6 numbered depots** (1-6) each with four spaces for six-sided tiles and 1 large goods space
+- **6 numbered depots** (1-6) each with four spaces for six-sided tiles and 1 large goods space
 
-**1 central black depot**
+- **1 central black depot**
 
-12 spaces for the **bonus tiles**
+- 12 spaces for the **bonus tiles**
 
-**1 turn order track**
+- **1 turn order track**
 
-**1 victory point track** _(0-100)_
+- **1 victory point track** _(0-100)_
 
 Place the **20 Silverlings** , the **30 worker tiles** as well as the **white die** next to the game board.
 
@@ -28,12 +26,12 @@ Place the **12 bonus tiles** (square) onto the corresponding spaces on the game 
 
 **Give each player:**
 
-- **1 player board,** placed with the **Number 1** side face up in front of himself <br>
+- **1 player board,** placed with the **Number 1** side face up in front of himself
 _(for boards with the numbers 2 through 9, see the additional information on page 12)_ ;
 
 - **1 castle** (= dark green six-sided tile), to be placed face up onto the dark green middle space (with the die value 6) of his player board;
   
-- **3 random goods tiles** from the remaining 17 tiles, to be placed _face up_ onto the three goods storage spaces in the upper left hand corner of his board: tiles of the same goods type (= colour) are stored together, different types are stored separately; <br>
+- **3 random goods tiles** from the remaining 17 tiles, to be placed _face up_ onto the three goods storage spaces in the upper left hand corner of his board: tiles of the same goods type (= colour) are stored together, different types are stored separately;
 _(any remaining goods tiles are not used in the game and are returned to the box)_
 
 - **the 2 dice** in his colour;
@@ -105,12 +103,12 @@ The game lasts for five phases (A through E). Each phase consists of five rounds
 
 At the start of _each_ phase, the following setup is carried out:
 
-- Remove all six-sided tiles remaining on the board and return them to the box (naturally not required before the first phase). <br>
+- Remove all six-sided tiles remaining on the board and return them to the box (naturally not required before the first phase).
   _(Note: Ship, mine and castle tiles can be left in place as they are all the same! Any remaining goods tiles are also left on the board!)_
   
 - Randomly draw new six-sided tiles and place them, face-up, onto the
 matching-coloured six-sided spaces in the six numbered depots: In a
-2-player game only those spaces marked with 2s (12 spaces), in a 3-player game only those spaces marked with 2s and 3s (18 spaces), and in a 4-player game all 24 spaces will have tiles placed onto them. <br>
+2-player game only those spaces marked with 2s (12 spaces), in a 3-player game only those spaces marked with 2s and 3s (18 spaces), and in a 4-player game all 24 spaces will have tiles placed onto them.
   _Note: In the three-player game only, there is an exception for the dark green space in the No. 6 depot: In phases A, C and E a castle is placed onto it as normal, but in phases B and D a mine (grey) is placed there instead!_
 
 - Randomly draw black-backed six-sided tiles and place them, _face-up_ , onto the black depot in the middle of the game board (draw 2 to 8 tiles, depending on player number).
@@ -121,13 +119,16 @@ matching-coloured six-sided spaces in the six numbered depots: In a
 
 After phase setup, five game rounds follow, each of which is carried out in the same manner:
 
-First, all players roll their two dice, with the start player also rolling the white die. Then all players place their dice in front of themselves so that all players can see them. <br>
+First, all players roll their two dice, with the start player also rolling the white die. Then all players place their dice in front of themselves so that all players can see them. 
 _Note: Rolling simultaneously allows those players whose turns come later to start planning their turns ahead of time._
 
-The start player starts. First, he takes the topmost goods tile from the round spaces and places it onto the goods space of the depot whose number matches the number rolled on the _white_ die. <br>
-With this, the white die's function for this turn is complete; it cannot be used by the start player to assist him on his own turn (and can never be adjusted via worker tiles!). <br>
-Thereafter, the start player carries his turn out. It is then the turn of the _next player in turn order_ (moving from right to left on the turn order track and from top to bottom in a given tower). Once each player has had a turn, a new round begins, etc. <br>
-As 5 goods tiles are added each phase and since one tile is added to a depot at the start of each round, it is easy to tell which round the cur- rent one is and how long the current phase (and by extension the entire game) will last.
+The start player starts. First, he takes the topmost goods tile from the round spaces and places it onto the goods space of the depot whose number matches the number rolled on the _white_ die.
+
+With this, the white die's function for this turn is complete; it cannot be used by the start player to assist him on his own turn (and can never be adjusted via worker tiles!).
+
+Thereafter, the start player carries his turn out. It is then the turn of the _next player in turn order_ (moving from right to left on the turn order track and from top to bottom in a given tower). Once each player has had a turn, a new round begins, etc.
+
+As 5 goods tiles are added each phase and since one tile is added to a depot at the start of each round, it is easy to tell which round the current one is and how long the current phase (and by extension the entire game) will last.
 
 ### A Player's Turn (page 4)
 
@@ -150,16 +151,20 @@ the action. The chosen tile is placed onto an _empty_ storage space in the botto
 #### Action "Add six-sided tile to your estate" (page 5)
 > an image containing 6 hexagons of different colors all alligned to the left with an arrow pointing upwards 
 
-The player may take one _six-sided_ tile of his choice from the storage area in the lower left-hand corner of his board and add it to his estate. The die chosen to carry out this action indicates which corresponding empty space he may place the tile onto. All newly-placed tiles must _always_ lie directly adjacent to at least one _previously-placed_ tile. A tile's colour must _always_ match the colour of the space it is being placed onto. <br>
+The player may take one _six-sided_ tile of his choice from the storage area in the lower left-hand corner of his board and add it to his estate. The die chosen to carry out this action indicates which corresponding empty space he may place the tile onto. All newly-placed tiles must _always_ lie directly adjacent to at least one _previously-placed_ tile. A tile's colour must _always_ match the colour of the space it is being placed onto.
 _The first tile can thus only ever be placed onto one of the six spaces surrounding the 'start castle'._
 
 Depending on what type of tile was placed, the following occurs immediately afterwards:
 
-"**Knowledge**" (yellow): There are 26 different yellow tiles whose functions are described in more detail on pages 10 and 11.
+#### Knowledge (yellow) (page 5)
 
-**Ship** (blue): Whenever a player adds a ship tile to his estate (which can occur up to 6 times), then two things happen _immediately_:
+There are 26 different yellow tiles whose functions are described in more detail on pages 10 and 11.
 
-1. The player takes _all_ of the goods tiles on _any one_ depot's goods space and adds them to the goods storage in the upper left hand corner of his board. <br>
+#### Ship (blue) (page 5)
+
+Whenever a player adds a ship tile to his estate (which can occur up to 6 times), then two things happen _immediately_:
+
+1. The player takes _all_ of the goods tiles on _any one_ depot's goods space and adds them to the goods storage in the upper left hand corner of his board.
  _Important: the chosen depot is completely separate and independent of the die result that was used to place the ship!_
 
 Each player may collect up to _three_ different _types_ of goods (= colours) in his goods storage. Tiles of the same colour are always piled _on top of each other_, dif- ferent coloured tiles are placed next to each other. If, because of this restriction, a player cannot store all of the goods tiles present in the chosen depot, then he simply leaves behind any goods he cannot store.
@@ -168,7 +173,10 @@ _Example: Carla has added a ship to her estate and subsequently takes goods tile
 
 2. The player moves his playing piece on the turn order track _one_ space to the right. Should this space be occupied, then he places his piece _on top_ of the other pieces. Should this result in him being start player for the next round then he also receives the white die.
 
-**Animal** (= a region of connected light green spaces): Whenever a player adds an animal tile to his estate (which can occur up to 6 times), then he immediately receives victory points (and moves his playing piece on the victory point track forward). Each tile has between 2 and 4 animals on it and the player receives the corresponding number of victory points for them. <br>
+#### Animal (page 6)
+
+(= a region of connected light green spaces): Whenever a player adds an animal tile to his estate (which can occur up to 6 times), then he immediately receives victory points (and moves his playing piece on the victory point track forward). Each tile has between 2 and 4 animals on it and the player receives the corresponding number of victory points for them.
+
 Should the player already have animals of the _same_ type in the pasture (= a region of connected light green spaces) that the new tile is being added to, then he scores all tiles with the _same_ animal type _again_ in _addition_ to the newly-placed tile _(see example below)_.
 
 _Important:_ The animal tiles must be part of the same pasture but do not need to be immediately adjacent to the newly-placed animal tile. Tiles with the same animal on them on _other_ pastures are not scored.
@@ -176,13 +184,19 @@ _Important:_ The animal tiles must be part of the same pasture but do not need t
 _Example: Benno adds the topmost 4-cow tile to his estate. He receives 4 + 3 = 7 victory points for it. Should he add another 4-cow tile to this pasture later on, then he would receive 4 + 4 + 3 = 11 victory points for it._
 > an image showing cards of different colors (blue, light green, dark green, beige, yellow and grey) and score board with numbers 1 - 8
 
-**Castle** (dark green): Whenever a player adds a castle tile to his estate (which can occur up to 3 times), then he _immediately_ carries out an additional action _of his choice_ as if he had an extra die with any result he wishes at his disposal. _He could, for example, immediately add another six-sided tile to his estate, or ..._
+#### Castle (dark green) (page 6)
 
-**Mine ** (grey): These tiles are (with the exception of a few of the yellow tiles) the only ones without an immediate effect when they are placed (which can occur up to 3 times). Instead, at the end of each phase, the player receives 1 Silverling from the supply for each mine in his estate.
+Whenever a player adds a castle tile to his estate (which can occur up to 3 times), then he _immediately_ carries out an additional action _of his choice_ as if he had an extra die with any result he wishes at his disposal. _He could, for example, immediately add another six-sided tile to his estate, or ..._
 
-**Building** (beige): Whenever a player adds a building tile to his estate (which can occur up to 12 times), then he _immediately_ gets to make a _single_ use of that building's advantage.
+#### Mine (grey) (page 6)
 
-_Important_: Each of the 8 building _types_ may only occur _once_ per city (= a region of connected beige spaces). Depending on the estate, there may be between 2 and 6 cit- ies of different sizes (1 to 8 spaces). <br>
+These tiles are (with the exception of a few of the yellow tiles) the only ones without an immediate effect when they are placed (which can occur up to 3 times). Instead, at the end of each phase, the player receives 1 Silverling from the supply for each mine in his estate.
+
+#### Building (beige) (page 6)
+
+Whenever a player adds a building tile to his estate (which can occur up to 12 times), then he _immediately_ gets to make a _single_ use of that building's advantage.
+
+_Important_: Each of the 8 building _types_ may only occur _once_ per city (= a region of connected beige spaces). Depending on the estate, there may be between 2 and 6 cit- ies of different sizes (1 to 8 spaces).
 _Estate No. 1, for example, has 4 cities: one 1-size, one 5-size and two 3-size._
 
 Each building provides an advantage immediately after having been built. These are also shown symbolically at left on the player boards.
@@ -233,7 +247,9 @@ When a player adds a watchtower to his estate, he immediately moves his play- in
 
 > an image of a two storybuilding with one steps on each side of the building, totaling two.
 
-**Fundamentally**, when placing _all_ buildings:
+#### Fundamentally (page 8)
+
+when placing _all_ buildings:
 
 - Their additional advantages are 'activated' via their placement, a die result (= action) is not required!
 
@@ -257,7 +273,7 @@ When a player adds a watchtower to his estate, he immediately moves his play- in
 
 The second player to finish covering up this same colour takes the _small bonus tile_ and the corresponding 2 to 4 victory points. Third and fourth place receive nothing.
 
-Note: As soon as a player reaches or exceeds 100 victory points on the victory point track, then he places his victory point tile onto his board with the 100 side up. The tile should be placed in the upper right hand corner, next to the used die storage. When a player reaches 200 vic- tory points, then he flips his tile over
+Note: As soon as a player reaches or exceeds 100 victory points on the victory point track, then he places his victory point tile onto his board with the 100 side up. The tile should be placed in the upper right hand corner, next to the used die storage. When a player reaches 200 victory points, then he flips his tile over
 
 #### Action "Sell goods" (page 9)
 
@@ -265,7 +281,7 @@ A player may choose to sell all goods of one type from his goods storage. The di
 
 - exactly one Silverling from the supply, regardless of how many tiles he just sold (= turned face-down), as well as
 
-- 2, 3 or 4 victory points per tile (depending on the number of players). <br>
+- 2, 3 or 4 victory points per tile (depending on the number of players).
   
 _Note: A player must always sell all tiles of a type when choosing the "Sell Goods" action, even if he would like to keep some in reserve._
 
@@ -297,7 +313,7 @@ The game ends after the fifth phase has been played through to completion. Final
 
 - every two worker tiles: 1 victory point
 
-- each VP-bearing yellow tile (see pages 10 and 11). <br>
+- each VP-bearing yellow tile (see pages 10 and 11). 
 
   _(Note: Six-sided tiles remaining on the storage spaces of a player's board are not scored!)_
 
@@ -307,35 +323,35 @@ The player who is the farthest along on the victory point track is the winner. I
 
 The game includes 26 different yellow tiles. Many have effects that take place immediately after placement, in that they change certain rules. Others only come into play during final scoring.
 
-1) The player who adds this tile to his estate may ignore the rule that only one building of each type is allowed in each city. He may thus add as many build- ings as he likes, _without restriction_, to his cities.
+1. The player who adds this tile to his estate may ignore the rule that only one building of each type is allowed in each city. He may thus add as many build- ings as he likes, _without restriction_, to his cities.
 
    > a yellow hexagon shape containing two tile with the number 1
 
-2) The player who adds this tile to his estate receives one worker tile from the general supply in addition to the usual Silverling for each of his mines at the end of each phase.
+2. The player who adds this tile to his estate receives one worker tile from the general supply in addition to the usual Silverling for each of his mines at the end of each phase.
 
    > a yellow hexagon shape containing one worker tile, one silverling directly under the worker all to the right, and one goods tile to the left with the number 2 and the symbol A-E
 
-3) The player who adds this tile to his estate receives 2 Silverlings from the general supply instead of 1 each time he sells goods (either via dice action or by adding a warehouse to his estate).
+3. The player who adds this tile to his estate receives 2 Silverlings from the general supply instead of 1 each time he sells goods (either via dice action or by adding a warehouse to his estate).
 
    > a yellow hexagon shape with a tile to the left, and two silverlings to the right, and the number 3
 
-4) The player who adds this tile to his estate receives one worker tile from the general supply in addition to the usual Silverling each time he sells goods (either via dice action or by adding a warehouse to his estate).
+4. The player who adds this tile to his estate receives one worker tile from the general supply in addition to the usual Silverling each time he sells goods (either via dice action or by adding a warehouse to his estate).
 
    > a yellow hexagon shape containing one worker tile, one silverling directly under the worker all to the right, and one goods tile to the left with the number 4
 
-5) The player who adds this tile to his estate may, when adding a ship to his estate, choose to take goods tiles not from one but from two _neighbouring_ goods spaces and add them to his goods storage.
+5. The player who adds this tile to his estate may, when adding a ship to his estate, choose to take goods tiles not from one but from two _neighbouring_ goods spaces and add them to his goods storage.
 
    > a yellow hexagon shape containing one ship image to the left, and one goods tile to the right with the number 5
 
-6) The player who adds this tile to his estate may buy not only from the central black depot but also from the _other_ six depots (i.e. from all seven). That player may still only make one purchase per turn.
+6. The player who adds this tile to his estate may buy not only from the central black depot but also from the _other_ six depots (i.e. from all seven). That player may still only make one purchase per turn.
 
    > a yellow hexagon shape containing two silverlings tiles to the left, and four other tiles to the right with the number 6
 
-7) The player who adds this tile to his estate receives 1 victory point more for each animal tile (i.e. not for each individual animal!) that scores points when a new animal tile is added. <br>
+7. The player who adds this tile to his estate receives 1 victory point more for each animal tile (i.e. not for each individual animal!) that scores points when a new animal tile is added.
 
    _Example: Benno adds a 3 sheep tile to a pasture that already has a 4 sheep tile. He scores (3+1) + (4+1) = 9 victory points. Should he later add a 2 pig tile to this pasture, then it would score 3 victory points._
 
-8) The player who adds this tile to his estate may adjust a die result by up to +/- 2 per worker tile that he pays. <br>
+8) The player who adds this tile to his estate may adjust a die result by up to +/- 2 per worker tile that he pays.
   
     _Example: To make a 3 out of a 6, Carla would now only need 2 worker tiles._
 
@@ -349,25 +365,25 @@ The game includes 26 different yellow tiles. Many have effects that take place i
 
 12) The player who adds this tile to his estate may adjust any die results being used to take new six-sided tiles from the game board by +/- 1, just as if he had used a worker tile for them.
 
-13) The player who adds this tile to his estate receives one Silverling in addi- tion to the usual 2 worker tiles each time he chooses the "Take worker tiles" dice action. <br>
+13) The player who adds this tile to his estate receives one Silverling in addi- tion to the usual 2 worker tiles each time he chooses the "Take worker tiles" dice action. 
 
     _Note: This tile has no effect when adding a boarding house._
 
 14) The player who adds this tile to his estate receives _4_ (instead of the usual 2) worker tiles each time he chooses the "Take worker tiles" dice action.
 
-15) The player who adds this tile to his estate receives _3_ victory points at the end of the game for each goods _type_ that he has _sold_ at least one goods tile of. Unsold goods are _ignored. Note: Players may look at their sold goods tiles at any time._ <br>
+15) The player who adds this tile to his estate receives _3_ victory points at the end of the game for each goods _type_ that he has _sold_ at least one goods tile of. Unsold goods are _ignored. Note: Players may look at their sold goods tiles at any time._ 
    
     _Example: Dario has sold the following goods tiles: 4x red, 3x violet, 3x pink and 1x orange. He receives 4 types x 3 victory points = 12 VP._
 
-16-23) The players who add these tiles (Nos. 16-23) to their estates receive 4 victory points at the end of the game for each corresponding building that has been added to their estates. <br>
+16-23) The players who add these tiles (Nos. 16-23) to their estates receive 4 victory points at the end of the game for each corresponding building that has been added to their estates. 
 
   _Example: Benno has yellow tiles 17 (watchtowers) and 22 (banks) in his estate at the end of the game, along with 2 watchtowers and 4 banks. He receives(2 x 4) + (4 x 4) = 24 victory points for them._
 
-24) The player who adds this tile to his estate receives 4 victory points at the end of the game for each animal type that has been added to his estate. <br>
+24) The player who adds this tile to his estate receives 4 victory points at the end of the game for each animal type that has been added to his estate.
    
     _Example: Anna has 1 cow, 1 chicken and 3 sheep tiles at the end of the game. She receives 3 types x 4 victory points = 12 VP._
 
-25) The player who adds this tile to his estate receives 1 victory point at the end of the game for each sold goods tile. Unsold goods are ignored.  <br>
+25) The player who adds this tile to his estate receives 1 victory point at the end of the game for each sold goods tile. Unsold goods are ignored.
 
     _Should Dario have also owned this tile, then he would have received 11 VP for it (see example under tile 15 above)._
 
@@ -375,5 +391,6 @@ The game includes 26 different yellow tiles. Many have effects that take place i
 
 ### Those Who Know The Game Well (page 12)
 
-… can make the following changes during Game Setup: After all typical game setup is complete and players have determined the player order, each player receives a random player board. Players are free to choose which side (front or back) of the board they wish to use, as well as which (dark green) space they will place their starting castle on. <br>
+… can make the following changes during Game Setup: After all typical game setup is complete and players have determined the player order, each player receives a random player board. Players are free to choose which side (front or back) of the board they wish to use, as well as which (dark green) space they will place their starting castle on.
+
 Players should agree ahead of time whether these decisions will be made openly (one after the other in turn order) or secretly (all players simultaneously).
