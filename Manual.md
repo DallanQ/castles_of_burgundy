@@ -345,49 +345,73 @@ The game includes 26 different yellow tiles. Many have effects that take place i
 
 6. The player who adds this tile to his estate may buy not only from the central black depot but also from the _other_ six depots (i.e. from all seven). That player may still only make one purchase per turn.
 
-   > a yellow hexagon shape containing two silverlings tiles to the left, and four other tiles to the right with the number 6
+   > a yellow hexagon shape containing two silverlings tiles to the left, and four other tiles to the right with the number 6 at the bottom.
 
 7. The player who adds this tile to his estate receives 1 victory point more for each animal tile (i.e. not for each individual animal!) that scores points when a new animal tile is added.
 
    _Example: Benno adds a 3 sheep tile to a pasture that already has a 4 sheep tile. He scores (3+1) + (4+1) = 9 victory points. Should he later add a 2 pig tile to this pasture, then it would score 3 victory points._
 
-8) The player who adds this tile to his estate may adjust a die result by up to +/- 2 per worker tile that he pays.
+   > a yellow hexagon shape containing three light green tiles stacked at the bottom of each other, followed by the number +1 alligned to the right, and the number 7 at the bottom.
+
+8. The player who adds this tile to his estate may adjust a die result by up to +/- 2 per worker tile that he pays.
   
     _Example: To make a 3 out of a 6, Carla would now only need 2 worker tiles._
 
-   > a yellow hexagon shape with the number -2 to the left, a worker tile in the center, the number +2 to the right, and the number 8 at the bottom
+   > a yellow hexagon shape with the number -2 to the left, a worker tile in the center, the number +2 to the right, and the number 8 at the bottom.
 
-9) The player who adds this tile to his estate may adjust _all_ die results being used to place buildings (beige tiles) by +/- 1, just as if he had used a worker tile for them.
+9. The player who adds this tile to his estate may adjust _all_ die results being used to place buildings (beige tiles) by +/- 1, just as if he had used a worker tile for them.
 
-10) The player who adds this tile to his estate may adjust _all_ die results being used to place ships or animals (blue or light green tiles) by +/- 1, just as if he had used a worker tile for them.
+    > a yellow heaxagon shape containing one tile with an arrow pointing NorthEast, with the numbers "+1" and "-1" to the right and the number 9 at the bottom.
 
-11) The player who adds this tile to his estate may adjust _all_ die results being used to place castles, mines or "knowledge" (dark green, grey or yellow tiles) by +/- 1, just as if he had used a worker tile for them.
+10. The player who adds this tile to his estate may adjust _all_ die results being used to place ships or animals (blue or light green tiles) by +/- 1, just as if he had used a worker tile for them.
 
-12) The player who adds this tile to his estate may adjust any die results being used to take new six-sided tiles from the game board by +/- 1, just as if he had used a worker tile for them.
+    > a yellow hexagon shape containing a blue and a light green tiles, with the blue shape positioned on the top bottom of the light green tile, followed by the numbers "+1" and "-1" alligned to the right, and the number 10 at the bottom.
 
-13) The player who adds this tile to his estate receives one Silverling in addi- tion to the usual 2 worker tiles each time he chooses the "Take worker tiles" dice action. 
+11. The player who adds this tile to his estate may adjust _all_ die results being used to place castles, mines or "knowledge" (dark green, grey or yellow tiles) by +/- 1, just as if he had used a worker tile for them.
+
+    > a yellow hexagon shape containing three tiles stacked on top of each other with the dark green tile at the bottom, the yellow tile on top of it, and the grey till on top of the yellow tile, followed by the numbers "+1" and "-1" alligned to the right, and the number 11 at the bottom.
+
+12. The player who adds this tile to his estate may adjust any die results being used to take new six-sided tiles from the game board by +/- 1, just as if he had used a worker tile for them.
+
+    > a yellow hexagon shape containing four wheat colored tiles alligned to the left, with the numbers "+1" and "-1" alligned to the right, followed by the number 12 at the bottom.
+
+13. The player who adds this tile to his estate receives one Silverling in addi- tion to the usual 2 worker tiles each time he chooses the "Take worker tiles" dice action. 
 
     _Note: This tile has no effect when adding a boarding house._
 
-14) The player who adds this tile to his estate receives _4_ (instead of the usual 2) worker tiles each time he chooses the "Take worker tiles" dice action.
+    > a yellow hexagon shape containing a six-faced dice to the left, two worker tiles and one silverling alligned to the right, with the number 12 at the bottom.
 
-15) The player who adds this tile to his estate receives _3_ victory points at the end of the game for each goods _type_ that he has _sold_ at least one goods tile of. Unsold goods are _ignored. Note: Players may look at their sold goods tiles at any time._ 
+14. The player who adds this tile to his estate receives _4_ (instead of the usual 2) worker tiles each time he chooses the "Take worker tiles" dice action.
+
+    > a yellow hexagon shape containing a six-faced dice to the left, four worker tiles to the right all stacked to the bottom of each other, followed by the number 14 at the bottom.
+
+15. The player who adds this tile to his estate receives _3_ victory points at the end of the game for each goods _type_ that he has _sold_ at least one goods tile of. Unsold goods are _ignored. Note: Players may look at their sold goods tiles at any time._ 
    
     _Example: Dario has sold the following goods tiles: 4x red, 3x violet, 3x pink and 1x orange. He receives 4 types x 3 victory points = 12 VP._
 
-16-23) The players who add these tiles (Nos. 16-23) to their estates receive 4 victory points at the end of the game for each corresponding building that has been added to their estates. 
+    > a yellow hexagon shape containing the number 3 enclosed with an orange border to the left, followed by 6 tiles of different colors all alligned to the right, with the forward slash (/) symbol in between the number 3 and the six tiles, and the number 15 at the bottom.
+
+16-23. The players who add these tiles (Nos. 16-23) to their estates receive 4 victory points at the end of the game for each corresponding building that has been added to their estates.
 
   _Example: Benno has yellow tiles 17 (watchtowers) and 22 (banks) in his estate at the end of the game, along with 2 watchtowers and 4 banks. He receives(2 x 4) + (4 x 4) = 24 victory points for them._
 
-24) The player who adds this tile to his estate receives 4 victory points at the end of the game for each animal type that has been added to his estate.
+  > six yellow hexagons with the numbers 16 - 17 at the bottom of each hexagons, followed by some tiles and symbols.
+
+24. The player who adds this tile to his estate receives 4 victory points at the end of the game for each animal type that has been added to his estate.
    
     _Example: Anna has 1 cow, 1 chicken and 3 sheep tiles at the end of the game. She receives 3 types x 4 victory points = 12 VP._
 
-25) The player who adds this tile to his estate receives 1 victory point at the end of the game for each sold goods tile. Unsold goods are ignored.
+    > a yellow hexagon shape containing the number 4 enclosed with an orange border to the left, followed by 6 animals (pig, fowl, etc) of different kinds all alligned to the right, with the forward slash (/) symbol in between the number 4 and the six tiles, and the number 24 at the bottom.
+
+25. The player who adds this tile to his estate receives 1 victory point at the end of the game for each sold goods tile. Unsold goods are ignored.
 
     _Should Dario have also owned this tile, then he would have received 11 VP for it (see example under tile 15 above)._
 
-26) The player who adds this tile to his estate receives 2 victory points at the end of the game for each bonus tile he claimed, regardless whether they are large or small.
+    > a yellow hexagon shape containing the number 1 enclosed with an orange border to the left, followed by a wheat colored tile alligned to the right, with the forward slash (/) symbol in between the number 1 and the single tiles, and the number 25 at the bottom.
+
+26. The player who adds this tile to his estate receives 2 victory points at the end of the game for each bonus tile he claimed, regardless whether they are large or small.
+
+    > a yellow hexagon shape containing the number 2 enclosed with an orange border to the left, followed by a wheat colored tile with a scroll like symbol inside it alligned to the right, with the forward slash (/) symbol in between the number 2 and the single tiles, and the number 26 at the bottom.
 
 ### Those Who Know The Game Well (page 12)
 
