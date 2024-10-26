@@ -64,6 +64,10 @@ Page 5 of the rulebook under Ship action, paragraph three. "... leaves behind an
 
 [starting-castle-points](https://boardgamegeek.com/thread/1631361/starting-castle-points)
 
+> Do you take points for completing the starting castle area, if it is a 1-space area? This wouldn't matter if everybody has one, but some boards have larger castle areas.
+
+The first castle is placed as part of set-up and does not occur as part of the game, thus no bonus points.
+
 [goods-tiles-at-the-end-of-the-phase](https://boardgamegeek.com/thread/1517979/goods-tiles-at-the-end-of-the-phase)
 
 [setup-worker-distribution-clockwise-direction](https://boardgamegeek.com/thread/1731583/setup-worker-distribution-clockwise-direction)
