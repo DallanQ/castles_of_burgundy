@@ -1,24 +1,66 @@
 [selling-goods](https://boardgamegeek.com/thread/1996198/selling-goods)
 
+> When you sell goods of the same colour and turn them over can you put any colour you want on top of them? Or can you not even put any othe goods on a used one?
+
+Yes, you have three spaces for unsold goods and one space for sold goods. So, when you sell goods, you take them off their current space, flip them over and put them on the sold goods space. The space they departed is now empty and “uncolored”.
+
 [just-one-silverling-for-a-goods-sale](https://boardgamegeek.com/thread/867494/just-one-silverling-for-a-goods-sale)
 
 [are-workers-limited-components](https://boardgamegeek.com/thread/1123757/are-workers-limited-components)
 
+> Are Workers and Silverlings Limited Components?
+
+The supply of worker tiles and Silverlings are not intended to be limited. In the rare case that the supply is exhausted, you can use nuggets of silver for the silverlings, and meeples for the workers.
+
 [yellow-tiles-3-and-4](https://boardgamegeek.com/thread/963182/yellow-tiles-3-and-4)
 
+> Can a player benefit from both yellow tile #3 (two silverlings on goods sales) and #4 (worker tile on good sales) on the same goods sale? A friend of mine says the player must choose between the two benefits. However I do not see where in the rules it says the use of one benefit excludes use of the other benefit. How do most players interpret the rules?
+
+A player who adds yellow tile #3 to his estate receives 2 Silverlings from the general supply instead of 1 each time he sells goods (either via dice action or by adding a warehouse to his estate).
+A player who adds yellow tile #4 to his estate receives one worker tile from the general supply in addition to the usual Silverling each time he sells goods (either via dice action or by adding a warehouse to his estate).
+keep in mind though, effects do not stack. Having these two tiles gives you benefits when selling goods. Those benefits aside from the normal selling benefit are 2 silverlings and 1 worker tile. Note that you don't add the two to become 3 silverlings and 1 worker.
+
 [knowledge-tile-6](https://boardgamegeek.com/thread/1327419/knowledge-tile-6)
+
+> I know that you can only buy once per turn from the black market, but what if you already placed down the yellow knowledge tile #6, can you use your silver multiple times to buy from the 6 numbered depots? For instance I got 6 silver, and on my turn I use 2 silverlings to buy 1 tile from the black market, and through my #6 knowledge tile I will buy 2 more tiles with my last 4 silver from the numbered depots?
+
+No. From the essential rule book (you can find this from the file section), players "may buy tiles from all seven depots (still only one purchase per turn)" The knowledge tile simply expands of your choice not the number of purchases.
 
 [are-the-effectsbenefits-generated-by-a-tile-placem](https://boardgamegeek.com/thread/1116800/are-the-effectsbenefits-generated-by-a-tile-placem)
 
 [rookie-question-where-can-i-put-my-second-castle](https://boardgamegeek.com/thread/1179071/rookie-question-where-can-i-put-my-second-castle)
 
+> The rules say you have to build your next building adjacent to those you've already built. However, in the Rahdo video, it looked to me like he built a Castle that was somewhere else in the estate. Do Castles have different rules? Can I place a Castle anywhere in my estate so long as it is dark green even if it is not touching a building that I've built so far?
+
+Castles are a dark green tile, and therefore have to be placed only on a dark green hex on your estate.
+There are no exceptions with the hexagonal tiles. Each one has to be placed on a tile with a matching color, using a die with a matching number, and has to be adjacent to an already-placed tile.
+
 [scoring-the-phases](https://boardgamegeek.com/thread/1292124/scoring-the-phases)
+
+> Hello, one question regarding the scoring, I saw on the rule book that a player gets points by ending a region, and he gets the number of points acording to his size. So, for example, for a tile size region-one point for a five tile region-15 points and aditionally number of points acording to the phase A,B,C and so on, my question is that if I finish a one tile region in the A phase I get 11 Victory points?
+
+Yes. Score small regions early. Bigger regions will take longer, so you're better off only finishing those after you've gotten the bonuses for scoring your smaller regions quickly.
 
 [actions-rule](https://boardgamegeek.com/thread/2502319/actions-rule)
 
+> In Castles of Burgandy, when it's your turn you have 4 options with your dice. Can you use an option twice in your turn? For example can I buy twice or build twice? Or can I only use one action once in my turn ?
+
+Yes. According to the rule book, a die is required for each action. The two actions per turn may be carried out in
+any combination and order (including carrying the same action out twice).
+
 [alternate-boards](https://boardgamegeek.com/thread/1432163/alternate-boards)
 
+> When using alternate boards, the starting tiles is always the one in the middle, isn't it?
+Even if it isn't a castle? In that case (i.e. a brown tile), do you simply extract one random tile and place it on your board?
+
+No. Each player is given a start castle tile (the dark green one). If you look at the back of the rules book, there is a section confirming that players can place this start castle on any of the four valid castle spots at the start of the game, rather than on the middle spot on board #1.
+
 [adding-ship-to-estate-not-enough-storage-for-all-g](https://boardgamegeek.com/thread/1760003/adding-ship-to-estate-not-enough-storage-for-all-g)
+
+> Adding Ship to Estate, Not Enough Storage for all Goods Selected
+
+Leave in depot.
+Page 5 of the rulebook under Ship action, paragraph three. "... leaves behind any goods he cannot store."
 
 [starting-castle-points](https://boardgamegeek.com/thread/1631361/starting-castle-points)
 
