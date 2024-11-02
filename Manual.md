@@ -52,6 +52,10 @@ Each player uses their second playing piece to mark the just-determined playing 
 
 Give the start player the white die.
 
+
+
+
+
 ### The Player Boards (page 3)
 
 Silverling storage 
