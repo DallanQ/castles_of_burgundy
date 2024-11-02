@@ -16,6 +16,10 @@ Place the **Gameboard** in the middle of the table. It shows:
 
 - **1 victory point track** _(0-100)_
 
+
+> The game board is divided into several key sections: five **phase spaces** labeled A to E to guide the flow of each game phase, five **round spaces** for tracking rounds, and six **numbered depots** (1 to 6), each containing four spaces for six-sided tiles and one large goods space. In the center is a **black depot**, which likely holds shared or special resources. There are twelve spaces dedicated to **bonus tiles**, a **turn order track** to manage player turns, and a **victory point track** ranging from 0 to 100 to keep score as players progress toward victory. This organized layout suggests a game focused on phases, resource management, and competitive scoring.
+
+
 Place the **20 Silverlings** , the **30 worker tiles** as well as the **white die** next to the game board.
 
 Sort the **164 six-sided tiles** according to the colour of their backs and place them, as separate _face-down_ supplies, next to the game board.
