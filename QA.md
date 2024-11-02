@@ -316,31 +316,82 @@ In a two-player game, put 4 black-backed tiles onto the 4 black spaces on the bo
 
 [do-you-collect-silver-at-the-end-of-the-game](https://boardgamegeek.com/thread/1586736/do-you-collect-silver-at-the-end-of-the-game)
 
+> Do you collect silver at the end of the game?
+
+Yes. According to the rulesbook, "A phase ends after five rounds, and players with mines now receive the corresponding number of Silverlings."
+
 [starting-castle-section-completion](https://boardgamegeek.com/thread/1339905/starting-castle-section-completion)
+
+> If I play my opening castle on one of the two castle sections, when I play my second castle and complete the section, do I score full points for completing a two-hex section? Or do I only score it as completing a one-hex section?
+
+You will score the full points.
 
 [issues-with-the-english-rules-in-new-edition](https://boardgamegeek.com/thread/2791045/issues-with-the-english-rules-in-new-edition)
 
 [board-1-had-12-beige-spaces-but-does-scoring-max-a](https://boardgamegeek.com/thread/3212782/board-1-had-12-beige-spaces-but-does-scoring-max-a)
 
+> There are 12 hexes of beige on board 1. Would it max out at 36 + the round score plus any bonus tile? Or would I get the max 36 + 10 + round score plus bonus tile
+
+You get the following for covering all of a contiguous area, based on the size of the area (not how many spaces are on the board in total):
+* You would get 1 point + Round bonus for the size 1 area up and left of the central Castle
+* You would get 6 points + Round bonus for the size 3 areas, left and down from the central Castle and up and right of the central castle.
+* You would get 15 points + Round bonus for the size 5 area down and right from the central Castle.
+
 [do-you-score-a-complete-a-region-bonus-for-a-singl](https://boardgamegeek.com/thread/3135406/do-you-score-a-complete-a-region-bonus-for-a-singl)
+
+> There are duchies with individual castle hexes, When you put a castle in there, do you get a “region of 1” bonus?
+
+Yes, since you completed the region
 
 [knowledge-tiles-13-and-14-do-they-stack](https://boardgamegeek.com/thread/905541/knowledge-tiles-13-and-14-do-they-stack)
 
+> Knowledge tiles 13 and 14 -- do they stack?
+
+Yes, they stack. You get both: 4 workers and 1 silverling.
+
 [can-i-use-a-worker-tile-to-adjust-a-die-at-any-tim](https://boardgamegeek.com/thread/1484635/can-i-use-a-worker-tile-to-adjust-a-die-at-any-tim)
+
+> Can I use a Worker Tile to change one of the 4's to a 3 and take a Ship tile from Dock #3, then use another Worker Tile to change the other 4 to a 5 and place that Ship Tile on a Blue 5 space?
+
+Yes, you sure can. The only thing to remember is that a separate worker is used for each adjustment, but other than that, you may spend them as you see fit.
 
 [knowledge-5-tile-clarity](https://boardgamegeek.com/thread/877312/knowledge-5-tile-clarity)
 
 [reference-to-a-tower-and-turn-order](https://boardgamegeek.com/thread/1724070/reference-to-a-tower-and-turn-order)
 
+> The second occurance of a rule relating to turn order indicates putting it on the "first" space -- which one would assume is the leftmost. However the next reference talks about order going from right to left, and seems to indicate that the rightmost disk on top of the stack will be the next first player...
+> So how about a clear exposition of the turn order and how the disks get moved?
+
+When a player places a ship into their estate, he/she will then take goods from any of the depots and place them in the upper left goods area. THEN he/she will move the token forward ONE SPACE. If that space is already occupied, they will place their marker on the top of this pile or "tower" of tokens. Play will then proceed by reading the turn order FIRST TO LAST on the lane and TOP TO BOTTOM on stacks.
+
+Therefore if you have three players Red, Green and Black, where Black is on the fourth space and red is stacked on top of green on the second space, the play would proceed thusly: Black, Red, Green.
+
 [yellow-tile-5-question](https://boardgamegeek.com/thread/743369/yellow-tile-5-question)
 
 [how-to-get-workers](https://boardgamegeek.com/thread/1290111/how-to-get-workers)
 
+> Is it possible to aquire the worker tiles at the begging of a players turn with one dice and also use the workers in that player's round?
+
+Yes, you can aquire workers with one dice, then use them with the second dice.
+
 [additional-action-with-castle-tile-can-i-pick-two](https://boardgamegeek.com/thread/3214499/additional-action-with-castle-tile-can-i-pick-two)
+
+> When you place a castle tile, you get an extra dice and do an extra action.
+> Does that mean I could use that dice to exchange it for two workers?
+
+Yes, you can do any action you could do with a regular die.
 
 [points-for-starting-castle-tile-placement](https://boardgamegeek.com/thread/719767/points-for-starting-castle-tile-placement)
 
+> Do you get victory points for placing your starting Castle tile in your estate if it is in a single dark green space, i.e. 11 points total (1 for the single tile + 10 for completing an area in the first phase)?
+
+No initial points. You place the Castle tile in the center of the board, and the score marker on the 0/100 space of the score track.
+
 [whats-a-turn-for-purpose-of-buying-black-backed-ti](https://boardgamegeek.com/thread/1234117/whats-a-turn-for-purpose-of-buying-black-backed-ti)
+
+> What's a "turn", for the purpose of buying black-backed tiles?
+
+Your turn = your 2 actions. You may take the black tile right before your 2 actions (at the beginning of your turn), between them, or right after them (at the end of your turn).
 
 [black-tile-setup-confusion-not-about-labeling](https://boardgamegeek.com/thread/1420963/black-tile-setup-confusion-not-about-labeling)
 
@@ -348,27 +399,69 @@ In a two-player game, put 4 black-backed tiles onto the 4 black spaces on the bo
 
 [tie-breaker-tie-breaker-breaker](https://boardgamegeek.com/thread/1626512/tie-breaker-tie-breaker-breaker)
 
+> My 2nd play and we tied, then we tied the tie breaker, so we went to the tie breaker breaker.....
+> Is it the last person to play the first turn or the last person to play period?
+
+The last player who played, meaning the player who is the fartest behind on the player order track.
+
 [yellow-tile-12-adjust-die-result-when-taking-tiles](https://boardgamegeek.com/thread/796898/yellow-tile-12-adjust-die-result-when-taking-tiles)
 
 [taking-a-hex-you-can-t-place-in-duchy-to-block-oth](https://boardgamegeek.com/thread/3146311/taking-a-hex-you-can-t-place-in-duchy-to-block-oth)
 
+> Taking a hex you can’t place in duchy to block other players: Is this legal?
+
+Yes, you can take a tile you cannot place. This has most impact in 2 player games, where point opponent lost is a point you gained.
+
 [ship-after-reaching-last-field](https://boardgamegeek.com/thread/3265775/ship-after-reaching-last-field)
+
+> What happens if I’m the first player to reach the last field on the turn order track? If other reach me I will never be first player again, right?
+
+Yes, you will never be the first player again.
 
 [worst-rule-mistake-ever-action-once-per-turn](https://boardgamegeek.com/thread/2118442/worst-rule-mistake-ever-action-once-per-turn)
 
 [turn-order-and-boats](https://boardgamegeek.com/thread/748659/turn-order-and-boats)
 
+> If someone is second player and they place a Boat tile, they move up one space. I believe this means that they share the same spot as the first player. If/when this occurs, who is the first player?
+
+If the second player moved up one space and shares the space with the person in front of them, they place their marker on top of the first player's marker. The marker on top is now the starting player, and pass the white die.
+
 [placement-on-alternative-mats](https://boardgamegeek.com/thread/1737427/placement-on-alternative-mats)
 
 [putting-tiles-on-your-estate](https://boardgamegeek.com/thread/905196/putting-tiles-on-your-estate)
 
+> (f you use a die to pull a tile off the main board and you have open spots in your holding area, can you immediately put it on your estate?
+
+Yes, you can. But taking a die off the main board and placing it in your estate are two separate actions and would require two dice.
+
+> Can you buy worker tiles with one die and immediately use them on the next or are they only helpful on your next turn?
+
+Yes of course. Same as above - these are two actions that needs both of your dice.
+
 [where-does-your-starting-castle-go-on-the-advanced](https://boardgamegeek.com/thread/764393/where-does-your-starting-castle-go-on-the-advanced)
+
+> Could anyone tell me whats with the 3 castle space on the main board near the 6 depot? It has ABCDE on either side of it and in different colors.
+
+Bottom of page three (3) of the rulebook says, "In the three-player game only, there is an exception for the dark green space in the No. 6 depot: In phases A, C and E a castle is placed onto it as normal, but in phases B and D a mine (grey) is placed there instead!"
 
 [a-e-meanings-on-a-green-hexagon-on-the-game-board](https://boardgamegeek.com/thread/1369444/a-e-meanings-on-a-green-hexagon-on-the-game-board)
 
+> I saw green letters, A C E, and white letters B D on a green hexogan on the game board. I guess these letters imply some tile placing rule for 3-people play but have no ideas. What does it mean?
+
+It means that in a three-player game you put a green castle tile on it in phases A, C and E. And in phases B and D you put a grey (or silver) mine tile on it.
+
 [rule-question](https://boardgamegeek.com/thread/1708617/rule-question)
 
+> If I install both the "ship & get two silverling" and the "ship & get an extra worker and your silverling" knowledge tiles, and at a later turn I take a shipping action. Would I get 2 silverling and a worker or would I need to choose which knowledge tile to resolve? Are both triggered or only one?
+
+Both knowledge tiles "pay off" on that turn, so you would get 2 coins and a worker.
+
 [knowledge-tile-11-clarification](https://boardgamegeek.com/thread/2206430/knowledge-tile-11-clarification)
+
+> So knowledge tile 11 says "The player who adds this tile to his estate may adjust all die results being used to place castles, mines or "knowledge" (dark green, grey or yellow tiles) by +/- 1, just as if he had used a worker tile for them."
+> Does the +/- 1 only apply when you place a new castle, mine, and knowledge in your estate? Or does placing a tile in your staging area apply as well?
+
+Only placing it in your estate. There's a separate knowledge tile that adjusts your dice for placing a tile in your staging area.
 
 [region-vp-scoring-size](https://boardgamegeek.com/thread/1633051/region-vp-scoring-size)
 
@@ -376,13 +469,42 @@ In a two-player game, put 4 black-backed tiles onto the 4 black spaces on the bo
 
 [black-backed-six-sided-tiles-set-up](https://boardgamegeek.com/thread/1023964/black-backed-six-sided-tiles-set-up)
 
+> I am not sure how many black backed tiles should be placed during set-up.
+> The rules state " draw 2 to 8 tiles, depending on player number"...but the numbers on the board are 4x 2's, 2x 3's, and 2x 4's. So it doesnt make much sense to me. Anyone know?
+
+If there are two players, you fill the spaces marked "2". If there are 3 players you fill the spaces marked "2" & "3". If there are 4 players, you fill them all.
+
 [city-hall](https://boardgamegeek.com/thread/2249433/city-hall)
+
+> You can add another tile to he board. Does that mean anywhere? Or does it have to be touching?
+
+Yes, it still has to touch. Putting the new tile on the board still has to follow all the rules of placing a tile. You don't have to use one of your die rolls to place a tile.
 
 [dice-number-on-goods-tiles](https://boardgamegeek.com/thread/815772/dice-number-on-goods-tiles)
 
+> I can't figure out the significance of the dice number shown on each goods tile. Can someone let me know what it means?
+
+The number on the tile shows what number die you need to use in order to sell that good.
+
+> There is also a second symbol in each goods depot that shows a dice and a goods tile. What does it mean?
+
+The one on the goods depot, if you're referring to the white die followed by a :+ goods tile means that you roll the white die and place the new goods tile for this round on that number depot.
+
 [scoring-regions](https://boardgamegeek.com/thread/1526893/scoring-regions)
 
+> If I've scored a three region (city) and collected the bonus of 6. Later in the game I fill in a five region, do I score it as 5 or 8 regions?
+
+A region is only scored once when it's completed. it doesn't matter when you complete a region if you had previously completed a different region of the same type
+
 [a-question-about-buying-black-tiles-with-silvering](https://boardgamegeek.com/thread/1039000/a-question-about-buying-black-tiles-with-silvering)
+
+> A question on buying black tiles with silvering that I get on the same turn?
+> For instance, at the beginning of my turn, let's pretend I got only 1 silvering originally.
+> During my turn, I had sold my commidity and received 1 silvering, so that I got 2 silverings now.
+> Can I buy any one of black tile with my 2 silvering then?
+
+You can buy a black market tile before you use your dice or after you use your dice, if you have the money at that time.
+The only timing restriction is that if you have a tile that gives you an additional action, like City Hall, you cannot buy a tile during the time between placing City Hall and taking the free placement action. So if you want to place a black market tile with City Hall you must buy it prior to putting City Hall on the board. A question that comes up a lot is when someone has three tiles in their storage area and they want to place City Hall then buy a new tile and use City Hall to place the new tile. That is not legal.
 
 [clarification-on-rounds-and-phases](https://boardgamegeek.com/thread/1268214/clarification-on-rounds-and-phases)
 
@@ -390,7 +512,17 @@ In a two-player game, put 4 black-backed tiles onto the 4 black spaces on the bo
 
 [completed-region-scoring-and-bonus-tiles](https://boardgamegeek.com/thread/2594272/completed-region-scoring-and-bonus-tiles)
 
+> if a tile covers the very last field of all the fields in one color (player completes a region), he gets the according bonus tile (1st place or 2nd place) - but does he then get the other scores as well?
+
+Yes, you get the normal scoring plus the bonus score.
+
 [yellow-number-12-rules-question](https://boardgamegeek.com/thread/1783779/yellow-number-12-rules-question)
+
+> Does the yellow number 12 rule apply to ANY tile taken from the main board?
+
+The English rulebook says, "The player who adds this tile to his estate may adjust any die results being
+used to take new six-sided tiles from the game board by +/- 1, just as if he had
+used a worker tile for them."
 
 [tiebreaker-in-different-language-rules](https://boardgamegeek.com/thread/630913/tiebreaker-in-different-language-rules)
 
