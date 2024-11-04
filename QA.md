@@ -10,7 +10,9 @@ Yes, you have three spaces for unsold goods and one space for sold goods. So, wh
 
 > Are Workers and Silverlings Limited Components?
 
-from the rule book "The supply of worker tiles and Silverlings are not intended to be limited. In the rare case that the supply is exhausted, you can use nuggets of silver for the silverlings, and meeples for the workers."
+From the rule book "The supply of worker tiles and Silverlings are not intended to be limited. In the rare case that the supply is exhausted, you can use nuggets of silver for the silverlings, and meeples for the workers.
+
+
 
 [yellow-tiles-3-and-4](https://boardgamegeek.com/thread/963182/yellow-tiles-3-and-4)
 
@@ -26,7 +28,7 @@ But, keep in mind though, effects do not stack. Having these two tiles gives you
 
 [knowledge-tile-6](https://boardgamegeek.com/thread/1327419/knowledge-tile-6)
 
-> I know that you can only buy once per turn from the black market, but what if you already placed down the yellow knowledge tile #6, can you use your silver multiple times to buy from the 6 numbered depots? For instance I got 6 silver, and on my turn I use 2 silverlings to buy 1 tile from the black market, and through my #6 knowledge tile I will buy 2 more tiles with my last 4 silver from the numbered depots?
+> I know that you can only buy once per turn from the black market, but what if you already placed down the yellow knowledge tile #6, can you use your silver multiple times to buy from the 6 numbered depots?. For instance I got 6 silver, and on my turn I use 2 silverlings to buy 1 tile from the black market, and through my #6 knowledge tile I will buy 2 more tiles with my last 4 silver from the numbered depots?
 
 No. From the essential rule book (you can find this from the file section), players "may buy tiles from all seven depots (still only one purchase per turn)" The knowledge tile simply expands of your choice not the number of purchases.
 
