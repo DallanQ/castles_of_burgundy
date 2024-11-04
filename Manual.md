@@ -165,7 +165,6 @@ _The first tile can thus only ever be placed onto one of the six spaces surround
 Depending on what type of tile was placed, the following occurs immediately afterwards:
 
 #### Knowledge (yellow) (page 5)
-
 There are 26 different yellow tiles whose functions are described in more detail on pages 10 and 11.
 
 #### Ship (blue) (page 5)
@@ -196,9 +195,13 @@ _Example: Benno adds the topmost 4-cow tile to his estate. He receives 4 + 3 = 7
 
 Whenever a player adds a castle tile to his estate (which can occur up to 3 times), then he _immediately_ carries out an additional action _of his choice_ as if he had an extra die with any result he wishes at his disposal. _He could, for example, immediately add another six-sided tile to his estate, or ..._
 
+>Image of a rectangular shape illustratiing a medieval castle with towers and walls. Next to it, there is a gray die with a "+" symbol beside it, indicating that placing a castle allows an extra action.
+
 #### Mine (grey) (page 6)
 
 These tiles are (with the exception of a few of the yellow tiles) the only ones without an immediate effect when they are placed (which can occur up to 3 times). Instead, at the end of each phase, the player receives 1 Silverling from the supply for each mine in his estate.
+
+> Image depiction of a mine with some rocks or hills, suggesting mineral extraction. Below it is a silver coin with a currency symbol on it, followed by the letters "A-E," likely representing game phases or rounds when income is collected.
 
 #### Building (beige) (page 6)
 
@@ -209,35 +212,40 @@ _Estate No. 1, for example, has 4 cities: one 1-size, one 5-size and two 3-size.
 
 Each building provides an advantage immediately after having been built. These are also shown symbolically at left on the player boards.
 
+> Image illustrating two buildings, one resembling a factory or warehouse with large doors and a red roof. Below these buildings, there is a set of cards or tiles, each marked with different symbols, implying that buildings have diverse functions based on their type.
+
+
 ### The Buildings (page 7)
 
 #### Warehouse (page 7) 
 
 When a player adds a warehouse to his estate, he may immediately (without having to use a die!) sell one goods _type_ of his _choice_ out of his goods storage, exactly as if he had chosen the 'Sell goods' action (see page 9).
 
-> an image of a big bungalow with dark green roof.
+> Image illustrating a structure resembling a storage facility or warehouse, with an image of barrels or crates nearby, symbolizing goods ready for trade or sale
 
 #### Carpenter's Workshop (page 7)
 
 When a player adds a carpenter's workshop to his estate, he may immediately take _one beige-coloured_ building tile of his choice from any numbered depot _(not from the black depot!)_ and place it onto an empty storage space in the bot- tom left-hand corner of his board.
 
+>  Image illustrate a building with wooden structures and tools, suggesting construction or manufacturing. A small image of a yellow tile beside it represents the action of choosing a building tile.
+
 #### Church (page 7) 
 
 When a player adds a church to his estate, he may immediately take _one_ mine (grey), "knowledge" (yellow) or castle (dark green) tile of his choice from any numbered depot _(not from the black depot!)_ and place it onto an empty storage space in the bottom left-hand corner of his board.
 
-> an image of a white one-storybuilding with a red zinc and a tall pillar
-
+> Image illustrating a church building with a steeple, along with small icons of a mine, book, and animals below it, indicating the choices available to the player.
 #### Market (page 7)
 
 When a player adds a market to his estate, he may immediately take _one_ ship (blue) _or_ animal (light green) tile of his choice from any numbered depot _(not from the black depot!)_ and place it onto an empty storage space in the bottom left-hand corner of his board.
 
-> an image of numerous bungalows
+> Image illustrating a marketplace with various goods, alongside icons of animals and a ship, representing the types of tiles that can be chosen. an image of numerous bungalows
 
 #### Boarding House (page 7)
 
 When a player adds a boarding house to his estate, he immediately takes 4 worker tiles from the general supply and adds them to his own.
 
-> worker tiles are the cards with an image of a human being (man)
+> Image of a modest house with multiple doors or rooms, symbolizing a lodging or temporary residence, with four worker tiles depicted below, indicating a recruitment or workforce benefit.
+
 
 #### Bank (page 7)
 
@@ -249,11 +257,13 @@ When a player adds a bank to his estate, he immediately takes 2 Silverlings from
 
 When a player adds a city hall to his estate, he may immediately add a second six-sided tile of his _choice_ to his estate from one of his three storage spaces, regardless of colour (and including all of its effects!).
 
+> Image  showing an official-looking building with a circular plaza, along with an icon of a player’s estate, emphasizing the ability to add a tile to the player's holdings.
+
 #### Watchtower (page 7)
 
 When a player adds a watchtower to his estate, he immediately moves his play- ing piece on the victory point track forward by 4 spaces.
 
-> an image of a two storybuilding with one steps on each side of the building, totaling two.
+> Image of a tall tower structure, often used for defense or surveillance, alongside an icon of a victory point medal, indicating the reward.
 
 #### Fundamentally (page 8)
 
@@ -275,7 +285,12 @@ when placing _all_ buildings:
 
   1. Depending on its size (1 to 8 spaces), the completed region scores between 1 and 36 victory points which are immediately scored on the victory point track.
 
+  > Image of a grid with two columns and eight rows, where the left column lists numbers 1 through 8, and the right column displays progressively higher point values (1, 2, 6, 10, 15, 21, 28, 36) inside bronze-colored circles, likely indicating points awarded for reaching specific levels or objectives in the game.
+
+
   2. Additionally, the region – depending on the phase – scores between 10 and 2 victory points: The empty phase space (A-E, in the upper right of the game board) for the current phase indicates how many additional victory points each completed region (regardless of its size!) is worth: between 10 in the first phase (A) and 2 in the last phase (E).
+
+  > Image illustrating five five labeled sections, "A" through "E," each containing a gray icon of a hand holding an object. Below each section is a golden circle with a point value, likely indicating rewards or costs. 
 
 - The first player who manages to cover all spaces of one colour in his _entire estate_ with tiles _(by placing his third mine, for example, or his sixth animal tile)_ immediately takes the corresponding _large bonus tile_ from the game board. He immediately scores victory points depending on the number of players (5 victory points with 2 players, 6 victory points with 3 players or 7 victory points with 4 players).
 
@@ -283,7 +298,14 @@ The second player to finish covering up this same colour takes the _small bonus 
 
 Note: As soon as a player reaches or exceeds 100 victory points on the victory point track, then he places his victory point tile onto his board with the 100 side up. The tile should be placed in the upper right hand corner, next to the used die storage. When a player reaches 200 victory points, then he flips his tile over
 
+> Image of four circular tokens, each featuring a central golden medallion with the number 100 in bold. The tokens have different colored backgrounds: red, green, black, and blue. Surrounding the central medallion on each token are faint decorative patterns, giving them a textured look.
+
+
+
 #### Action "Sell goods" (page 9)
+
+> Image of a small, shield-shaped tile with a stack of papers or cards at its center, and an upward-pointing arrow in the top-right corne
+
 
 A player may choose to sell all goods of one type from his goods storage. The die chosen to carry out this action indicates which goods type (= colour) may be sold. All corresponding goods tiles in the player's goods storage are piled, face-down, onto the goods storage space on the player's board intended for this purpose. For doing this, the player receives: 
 
@@ -333,71 +355,71 @@ The game includes 26 different yellow tiles. Many have effects that take place i
 
 1. The player who adds this tile to his estate may ignore the rule that only one building of each type is allowed in each city. He may thus add as many build- ings as he likes, _without restriction_, to his cities.
 
-   > a yellow hexagon shape containing two tile with the number 1
+   > Image of a yellow hexagon shape containing two tile with the number 1
 
 2. The player who adds this tile to his estate receives one worker tile from the general supply in addition to the usual Silverling for each of his mines at the end of each phase.
 
-   > a yellow hexagon shape containing one worker tile, one silverling directly under the worker all to the right, and one goods tile to the left with the number 2 and the symbol A-E
+   >Image of a yellow hexagon shape containing one worker tile, one silverling directly under the worker all to the right, and one goods tile to the left with the number 2 and the symbol A-E
 
 3. The player who adds this tile to his estate receives 2 Silverlings from the general supply instead of 1 each time he sells goods (either via dice action or by adding a warehouse to his estate).
 
-   > a yellow hexagon shape with a tile to the left, and two silverlings to the right, and the number 3
+   >Image of  a yellow hexagon shape with a tile to the left, and two silverlings to the right, and the number 3
 
 4. The player who adds this tile to his estate receives one worker tile from the general supply in addition to the usual Silverling each time he sells goods (either via dice action or by adding a warehouse to his estate).
 
-   > a yellow hexagon shape containing one worker tile, one silverling directly under the worker all to the right, and one goods tile to the left with the number 4
+   >Image of a yellow hexagon shape containing one worker tile, one silverling directly under the worker all to the right, and one goods tile to the left with the number 4
 
 5. The player who adds this tile to his estate may, when adding a ship to his estate, choose to take goods tiles not from one but from two _neighbouring_ goods spaces and add them to his goods storage.
 
-   > a yellow hexagon shape containing one ship image to the left, and one goods tile to the right with the number 5
+   >Image of a yellow hexagon shape containing one ship image to the left, and one goods tile to the right with the number 5
 
 6. The player who adds this tile to his estate may buy not only from the central black depot but also from the _other_ six depots (i.e. from all seven). That player may still only make one purchase per turn.
 
-   > a yellow hexagon shape containing two silverlings tiles to the left, and four other tiles to the right with the number 6 at the bottom.
+   > Image of a yellow hexagon shape containing two silverlings tiles to the left, and four other tiles to the right with the number 6 at the bottom.
 
 7. The player who adds this tile to his estate receives 1 victory point more for each animal tile (i.e. not for each individual animal!) that scores points when a new animal tile is added.
 
    _Example: Benno adds a 3 sheep tile to a pasture that already has a 4 sheep tile. He scores (3+1) + (4+1) = 9 victory points. Should he later add a 2 pig tile to this pasture, then it would score 3 victory points._
 
-   > a yellow hexagon shape containing three light green tiles stacked at the bottom of each other, followed by the number +1 alligned to the right, and the number 7 at the bottom.
+   >image of a yellow hexagon shape containing three light green tiles stacked at the bottom of each other, followed by the number +1 alligned to the right, and the number 7 at the bottom.
 
 8. The player who adds this tile to his estate may adjust a die result by up to +/- 2 per worker tile that he pays.
   
     _Example: To make a 3 out of a 6, Carla would now only need 2 worker tiles._
 
-   > a yellow hexagon shape with the number -2 to the left, a worker tile in the center, the number +2 to the right, and the number 8 at the bottom.
+   >Image of a yellow hexagon shape with the number -2 to the left, a worker tile in the center, the number +2 to the right, and the number 8 at the bottom.
 
 9. The player who adds this tile to his estate may adjust _all_ die results being used to place buildings (beige tiles) by +/- 1, just as if he had used a worker tile for them.
 
-    > a yellow heaxagon shape containing one tile with an arrow pointing NorthEast, with the numbers "+1" and "-1" to the right and the number 9 at the bottom.
+    > Image of a yellow heaxagon shape containing one tile with an arrow pointing NorthEast, with the numbers "+1" and "-1" to the right and the number 9 at the bottom.
 
 10. The player who adds this tile to his estate may adjust _all_ die results being used to place ships or animals (blue or light green tiles) by +/- 1, just as if he had used a worker tile for them.
 
-    > a yellow hexagon shape containing a blue and a light green tiles, with the blue shape positioned on the top bottom of the light green tile, followed by the numbers "+1" and "-1" alligned to the right, and the number 10 at the bottom.
+    >Image of a yellow hexagon shape containing a blue and a light green tiles, with the blue shape positioned on the top bottom of the light green tile, followed by the numbers "+1" and "-1" alligned to the right, and the number 10 at the bottom.
 
 11. The player who adds this tile to his estate may adjust _all_ die results being used to place castles, mines or "knowledge" (dark green, grey or yellow tiles) by +/- 1, just as if he had used a worker tile for them.
 
-    > a yellow hexagon shape containing three tiles stacked on top of each other with the dark green tile at the bottom, the yellow tile on top of it, and the grey till on top of the yellow tile, followed by the numbers "+1" and "-1" alligned to the right, and the number 11 at the bottom.
+    >image of a yellow hexagon shape containing three tiles stacked on top of each other with the dark green tile at the bottom, the yellow tile on top of it, and the grey till on top of the yellow tile, followed by the numbers "+1" and "-1" alligned to the right, and the number 11 at the bottom.
 
 12. The player who adds this tile to his estate may adjust any die results being used to take new six-sided tiles from the game board by +/- 1, just as if he had used a worker tile for them.
 
-    > a yellow hexagon shape containing four wheat colored tiles alligned to the left, with the numbers "+1" and "-1" alligned to the right, followed by the number 12 at the bottom.
+    >image of a yellow hexagon shape containing four wheat colored tiles alligned to the left, with the numbers "+1" and "-1" alligned to the right, followed by the number 12 at the bottom.
 
 13. The player who adds this tile to his estate receives one Silverling in addi- tion to the usual 2 worker tiles each time he chooses the "Take worker tiles" dice action. 
 
     _Note: This tile has no effect when adding a boarding house._
 
-    > a yellow hexagon shape containing a six-faced dice to the left, two worker tiles and one silverling alligned to the right, with the number 12 at the bottom.
+    >Image of a yellow hexagon shape containing a six-faced dice to the left, two worker tiles and one silverling alligned to the right, with the number 12 at the bottom.
 
 14. The player who adds this tile to his estate receives _4_ (instead of the usual 2) worker tiles each time he chooses the "Take worker tiles" dice action.
 
-    > a yellow hexagon shape containing a six-faced dice to the left, four worker tiles to the right all stacked to the bottom of each other, followed by the number 14 at the bottom.
+    >Image of a yellow hexagon shape containing a six-faced dice to the left, four worker tiles to the right all stacked to the bottom of each other, followed by the number 14 at the bottom.
 
 15. The player who adds this tile to his estate receives _3_ victory points at the end of the game for each goods _type_ that he has _sold_ at least one goods tile of. Unsold goods are _ignored. Note: Players may look at their sold goods tiles at any time._ 
    
     _Example: Dario has sold the following goods tiles: 4x red, 3x violet, 3x pink and 1x orange. He receives 4 types x 3 victory points = 12 VP._
 
-    > a yellow hexagon shape containing the number 3 enclosed with an orange border to the left, followed by 6 tiles of different colors all alligned to the right, with the forward slash (/) symbol in between the number 3 and the six tiles, and the number 15 at the bottom.
+    >Ifmage of a yellow hexagon shape containing the number 3 enclosed with an orange border to the left, followed by 6 tiles of different colors all alligned to the right, with the forward slash (/) symbol in between the number 3 and the six tiles, and the number 15 at the bottom.
 
 16-23. The players who add these tiles (Nos. 16-23) to their estates receive 4 victory points at the end of the game for each corresponding building that has been added to their estates.
 
@@ -409,17 +431,17 @@ The game includes 26 different yellow tiles. Many have effects that take place i
    
     _Example: Anna has 1 cow, 1 chicken and 3 sheep tiles at the end of the game. She receives 3 types x 4 victory points = 12 VP._
 
-    > a yellow hexagon shape containing the number 4 enclosed with an orange border to the left, followed by 6 animals (pig, fowl, etc) of different kinds all alligned to the right, with the forward slash (/) symbol in between the number 4 and the six tiles, and the number 24 at the bottom.
+    >image of a yellow hexagon shape containing the number 4 enclosed with an orange border to the left, followed by 6 animals (pig, fowl, etc) of different kinds all alligned to the right, with the forward slash (/) symbol in between the number 4 and the six tiles, and the number 24 at the bottom.
 
 25. The player who adds this tile to his estate receives 1 victory point at the end of the game for each sold goods tile. Unsold goods are ignored.
 
     _Should Dario have also owned this tile, then he would have received 11 VP for it (see example under tile 15 above)._
 
-    > a yellow hexagon shape containing the number 1 enclosed with an orange border to the left, followed by a wheat colored tile alligned to the right, with the forward slash (/) symbol in between the number 1 and the single tiles, and the number 25 at the bottom.
+    >Image of a yellow hexagon shape containing the number 1 enclosed with an orange border to the left, followed by a wheat colored tile alligned to the right, with the forward slash (/) symbol in between the number 1 and the single tiles, and the number 25 at the bottom.
 
 26. The player who adds this tile to his estate receives 2 victory points at the end of the game for each bonus tile he claimed, regardless whether they are large or small.
 
-    > a yellow hexagon shape containing the number 2 enclosed with an orange border to the left, followed by a wheat colored tile with a scroll like symbol inside it alligned to the right, with the forward slash (/) symbol in between the number 2 and the single tiles, and the number 26 at the bottom.
+    >Image of a yellow hexagon shape containing the number 2 enclosed with an orange border to the left, followed by a wheat colored tile with a scroll like symbol inside it alligned to the right, with the forward slash (/) symbol in between the number 2 and the single tiles, and the number 26 at the bottom.
 
 ### Those Who Know The Game Well (page 12)
 
