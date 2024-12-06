@@ -1,10 +1,18 @@
 [selling-goods](https://boardgamegeek.com/thread/1996198/selling-goods)
 
-> When you sell goods of the same colour and turn them over can you put any colour you want on top of them? Or can you not even put any othe goods on a used one?
+> When you sell goods of the same color and turn them over can you put any color you want on top of them? Or can you not even put any r goods on a used one?
 
 Yes, you have three spaces for unsold goods and one space for sold goods. So, when you sell goods, you take them off their current space, flip them over and put them on the sold goods space. The space they departed is now empty and “uncolored”.
 
-[just-one-silverling-for-a-goods-sale](https://boardgamegeek.com/thread/867494/just-one-silverling-for-a-goods-sale)
+
+----
+page 9
+
+A player may choose to sell all goods of one type from his goods storage.
+The die chosen to carry out this action indicates which goods type (= colour) may be sold. All corresponding goods tiles in the player’s goods storage are piled, face-down, onto the goods storage space on the player’s board intended for
+this purpose. For doing this, the player receives: - exactly one Silverling from the supply, regardless of how many tiles he just sold (= turned face-down), as well as - 2, 3 or 4 victory points per tile (depending on the number of players). Note: A player must always sell all tiles of a type when choosing the “Sell Goods” action, even if he would like to keep some in reserve.
+
+
 
 [are-workers-limited-components](https://boardgamegeek.com/thread/1123757/are-workers-limited-components)
 
@@ -12,6 +20,10 @@ Yes, you have three spaces for unsold goods and one space for sold goods. So, wh
 
 From the rule book "The supply of worker tiles and Silverlings are not intended to be limited. In the rare case that the supply is exhausted, you can use nuggets of silver for the silverlings, and meeples for the workers.
 
+----
+page 4
+
+The supply of worker tiles and Silverlings is not intended to be limited. In the rare case that the supply is exhausted, please substitute other materials.
 
 
 [yellow-tiles-3-and-4](https://boardgamegeek.com/thread/963182/yellow-tiles-3-and-4)
@@ -26,69 +38,137 @@ and
 Of course you can have both effects if you have these on your estate.
 But, keep in mind though, effects do not stack. Having these two tiles gives you benefits when selling goods. Those benefits aside from the normal selling benefit are 2 silverlings and 1 worker tile. Note that you don't add the two to become 3 silverlings and 1 worker.
 
+
+----
+page 10
+
+2) The player who adds this tile to his estate receives one worker tile from the 
+general supply in addition to the usual Silverling for each of his mines at the end 
+of each phase
+
+3) The player who adds this tile to his estate receives 2 Silverlings from the 
+general supply instead of 1 each time he sells goods (either via dice action or by 
+adding a warehouse to his estate).
+
+4) The player who adds this tile to his estate receives one worker tile from the 
+general supply in addition to the usual Silverling each time he sells goods (either 
+via dice action or by adding a warehouse to his estate).
+
+
+
 [knowledge-tile-6](https://boardgamegeek.com/thread/1327419/knowledge-tile-6)
 
 > I know that you can only buy once per turn from the black market, but what if you already placed down the yellow knowledge tile #6, can you use your silver multiple times to buy from the 6 numbered depots?. For instance I got 6 silver, and on my turn I use 2 silverlings to buy 1 tile from the black market, and through my #6 knowledge tile I will buy 2 more tiles with my last 4 silver from the numbered depots?
 
 No. From the essential rule book (you can find this from the file section), players "may buy tiles from all seven depots (still only one purchase per turn)" The knowledge tile simply expands of your choice not the number of purchases.
 
-[are-the-effectsbenefits-generated-by-a-tile-placem](https://boardgamegeek.com/thread/1116800/are-the-effectsbenefits-generated-by-a-tile-placem)
+
+----
+page 10
+
+The player who adds this tile to his estate may buy not only from the central 
+black depot but also from the other six depots (i.e. from all seven). That player 
+may still only make one purchase per turn.
+
+
 
 [rookie-question-where-can-i-put-my-second-castle](https://boardgamegeek.com/thread/1179071/rookie-question-where-can-i-put-my-second-castle)
 
 > The rules say you have to build your next building adjacent to those you've already built. Do Castles have different rules? Can I place a Castle anywhere in my estate so long as it is dark green even if it is not touching a building that I've built so far?
 
-Castles are a dark green tile, and therefore have to be placed only on a dark green hex on your estate.
-There are no exceptions with the hexagonal tiles. Each one has to be placed on a tile with a matching color, using a die with a matching number, and has to be adjacent to an already-placed tile.
+Castles are a dark green tile, and therefore have to be placed only on a dark green hex on your estate. There are no exceptions with the hexagonal tiles. Each one has to be placed on a tile with a matching color, using a die with a matching number, and has to be adjacent to an already-placed tile.
+
+----
+page 5
+
+The player may take one six-sided tile of his choice from the stor-
+age area in the lower left-hand corner of his board and add it to his
+estate. The die chosen to carry out this action indicates which corresponding
+empty space he may place the tile onto. All newly-placed tiles must always lie
+directly adjacent to at least one previously-placed tile. A tile’s colour must always
+match the colour of the space it is being placed onto.
+The first tile can thus only ever be placed onto one of the six spaces surrounding the
+‘start castle’.
+
+----
+page 6
+
+Castle (dark green): Whenever a player adds a castle tile to his estate (which
+can occur up to 3 times), then he immediately carries out an additional action
+of his choice as if he had an extra die with any result he wishes at his disposal.
+He could, for example, immediately add another six-sided tile to his estate, or .
+
+
 
 [scoring-the-phases](https://boardgamegeek.com/thread/1292124/scoring-the-phases)
 
-> I saw on the rule book that a player gets points by ending a region, and he gets the number of points acording to his size. So, for example, for a tile size region-one point for a five tile region-15 points and aditionally number of points acording to the phase A,B,C and so on, my question is that if I finish a one tile region in the A phase I get 11 Victory points?
+> I saw on the rule book that a player gets points by ending a region, and he gets the number of points according to his size. So, for example, for a tile size region-one point for a five tile region-15 points and additionally number of points according to the phase A,B,C and so on, my question is that if I finish a one tile region in the A phase I get 11 Victory points?
 
 Yes. Score small regions early. Bigger regions will take longer, so you're better off only finishing those after you've gotten the bonuses for scoring your smaller regions quickly.
 
+
+----
+page 8
+
+1. Depending on its size (1 to 8 spaces), the completed region scores between 1 and 36 victory points which are immediately scored on the victory point track.
+2. Additionally, the region depending on the phase scores between 10 and 2 victory points: The empty phase space (A-E, in the upper right of the game board) for the current phase indicates how many additional victory points each completed region (regardless of its size!) is worth: between 10 in the first phase (A) and 2 in the last phase (E)
+
 [actions-rule](https://boardgamegeek.com/thread/2502319/actions-rule)
 
-> In Castles of Burgandy, when it's your turn you have 4 options with your dice. Can you use an option twice in your turn? For example can I buy twice or build twice? Or can I only use one action once in my turn ?
+> In Castles of Burgundy, when it's your turn you have 4 options with your dice. Can you use an option twice in your turn? For example can I buy twice or build twice? Or can I only use one action once in my turn ?
 
 Yes. According to the rule book, "A die is required for each action. The two actions per turn may be carried out in any combination and order (including carrying the same action out twice)."
 
-[alternate-boards](https://boardgamegeek.com/thread/1432163/alternate-boards)
+----
+page 5
 
-> When using alternate boards, the starting tiles is always the one in the middle, isn't it?
-Even if it isn't a castle? In that case (i.e. a brown tile), do you simply extract one random tile and place it on your board?
+A die is required for each action. The two actions per turn may be carried out in
+any combination and order (including carrying the same action out twice).
 
-No. Each player is given a start castle tile (the dark green one). If you look at the back of the rules book, there is a section confirming that players can place this start castle on any of the four valid castle spots at the start of the game, rather than on the middle spot on board #1.
+----
+page 9
 
-[adding-ship-to-estate-not-enough-storage-for-all-g](https://boardgamegeek.com/thread/1760003/adding-ship-to-estate-not-enough-storage-for-all-g)
-
-[starting-castle-points](https://boardgamegeek.com/thread/1631361/starting-castle-points)
-
-> Do you take points for completing the starting castle area, if it is a 1-space area? This wouldn't matter if everybody has one, but some boards have larger castle areas.
-
-The first castle is placed as part of set-up and does not occur as part of the game, thus no bonus points.
+In addition to his two dice actions, each player may, once per turn, choose to
+buy one of the six-sided tiles from the central black depot. He may do this at any
+point during his turn: before, between or after the dice actions
 
 [goods-tiles-at-the-end-of-the-phase](https://boardgamegeek.com/thread/1517979/goods-tiles-at-the-end-of-the-phase)
 
 > After each phase do the goods tiles get removed from the main board or just the 6-sided tiles?
 
-No, the good tiles are not removed, it's just the 6-sided tiles. 
-The goods tiles stay put until they're claimed through a shipping action.
+No, the good tiles are not removed, it's just the 6-sided tiles. The goods tiles stay put until they're claimed through a shipping action.
+
+----
+page 3
+
+At the start of each phase, the following setup is carried out:
+- Remove all six-sided tiles remaining on the board and return them to the box (naturally not required before the first phase).
+(Note: Ship, mine and castle tiles can be left in place as they are all the same! Any remaining goods tiles are also left on the board!)
+
+----
+page 4
+
+The player may take one six-sided tile of his choice from the storage area in the lower left-hand corner of his board and add it to his estate. The die chosen to carry out this action indicates which corresponding empty space he may place the tile onto. All newly-placed tiles must always lie directly adjacent to at least one previously-placed tile. A tile’s colour must always match the colour of the space it is being placed onto. The first tile can thus only ever be placed onto one of the six spaces surrounding the ‘start castle’.
 
 [setup-worker-distribution-clockwise-direction](https://boardgamegeek.com/thread/1731583/setup-worker-distribution-clockwise-direction)
 
 > The rules state that: "[The start player] receives 1 worker tile ... The next player in clockwise direction receives 2 worker chips (I assume "chips" is supposed to say "tiles"), the third player receives 3 and the fourth player receives 4."
+
 > But the bold summary text in the right-hand column says: "...give each player 1 to 4 worker tiles depending on play order."
+
 >Which one is it?
 
 The 1st player gets 1 worker tile,the 2nd gets 2, the 3rd gets 3, and the 4th gets 4.
 Also turn order is determined in a clockwise order when the game begins.
 
-[plaing-a-knowledge-tile](https://boardgamegeek.com/thread/824415/plaing-a-knowledge-tile)
 
-> Where do I place knowledge tiles on my player board when I acquire them?
+----
+page 3
 
-When you take the knowledge tiles from the depot, you put them in the staging area (or whatever that's called) just like the other tiles. Then you put them on your estate, onto the yellow hexes, just like the other ones.
+Determine a start player by rolling dice. That player receives one worker tile which he places onto the appropriate storage space in the lower left hand corner of his board, visible to all other players. The next player in clockwise direction receives 2 worker chips, the third player receives 3 and the fourth player receives 4.
+Each player uses their second playing piece to mark the just-determined playing order on the first space of the turn order track: The start player’s piece should be on top in the tower and the last player’s piece should be at the bottom. Give the start player the white die.
+
+
 
 [castle-extra-action-to-pay-for-a-central-black-dep](https://boardgamegeek.com/thread/1187285/castle-extra-action-to-pay-for-a-central-black-dep)
 
@@ -102,6 +182,15 @@ of his choice.
 3. The central black depot: In addition to his two dice actions, each player may, once per turn, choose to
 buy one of the six-sided tiles from the central black depot. He may do this at any
 point during his turn: before, between or after the dice actions.
+To accomplish this, the player must return 2 Silverlings to the general
+supply and subsequently place the newly-purchased six-sided tile, as
+with any tile from the game board, onto an empty storage space in
+the lower left-hand corner of his board.
+
+
+----
+page 9
+
 To accomplish this, the player must return 2 Silverlings to the general
 supply and subsequently place the newly-purchased six-sided tile, as
 with any tile from the game board, onto an empty storage space in
@@ -134,6 +223,14 @@ Worker disbursement only occurs at the start of the game.
 No, they don't score anything at the end of the game. When goods were sold, they should have each scored 2-4 points per tile depending on the number of players.
 
 [i-goofed-i-placed-same-building-twice-in-same-city](https://boardgamegeek.com/thread/3334158/i-goofed-i-placed-same-building-twice-in-same-city)
+
+
+
+[starting-castle-points](https://boardgamegeek.com/thread/1631361/starting-castle-points)
+
+> Do you take points for completing the starting castle area, if it is a 1-space area? This wouldn't matter if everybody has one, but some boards have larger castle areas.
+
+The first castle is placed as part of set-up and does not occur as part of the game, thus no bonus points.
 
 [getting-goods-from-the-goods-space](https://boardgamegeek.com/thread/1557978/getting-goods-from-the-goods-space)
 
@@ -186,7 +283,7 @@ No, the players keep moving their tokens to the right for every ship that they p
 
 > How do I know the color of goods I am allowed to sell when using a specific die?
 
-Each colour goods tile has a die printed on it.
+Each color goods tile has a die printed on it.
 
 [carpenters-workshop-church-market-question](https://boardgamegeek.com/thread/1967076/carpenters-workshop-church-market-question)
 
@@ -205,7 +302,7 @@ Yes. You can ALWAYS under any circumstances take new tiles even if you have alre
 > Or do you just start by grabbing a tile on your turn using a die and placing it anywhere allowed?
 
 Yes, you still start with one castle "already" on the board. 
-The advanced rules on the back page of the rulebook outline the folllowing steps:
+The advanced rules on the back page of the rulebook outline the following steps:
 - determine player order
 - each player receives a random board
 - players choose which side to play
@@ -231,7 +328,7 @@ Yes. You will remain the first player until someone else moves ahead on the orde
 
 > Obviously castles are the only option for these regions but, does the rule apply that you can only place one castle tile per region, unless you get the knowledge tile allowing multiple buildings of the same type?
 
-No, this rules only apply for buildings (beig tiles).The term "Building" only referes to the brown tiles. That specific knowledge tile does nothing for castles.
+No, this rules only apply for buildings (beig tiles).The term "Building" only referred to the brown tiles. That specific knowledge tile does nothing for castles.
 
 [board-post-bonus-tile-in-special-edition](https://boardgamegeek.com/thread/3031425/board-post-bonus-tile-in-special-edition)
 
@@ -253,7 +350,7 @@ Yes. You can adjust your color-rolled dice from a 6 to a 5 or to a 1 using one w
 
 > If I have all my tiles of a color (say I have 3 mines for instance) Can I still purchase those from the board to deny other players the opportunity to buy them?
 
-The rules on page 8 says, "if you purchase a tile and you dont have a storage spot for it, you have to discard one to make room for it." Then it went on to say, "...for players not to do that very often."
+The rules on page 8 says, "if you purchase a tile and you don't have a storage spot for it, you have to discard one to make room for it." Then it went on to say, "...for players not to do that very often."
 
 [typoerror-in-english-rules](https://boardgamegeek.com/thread/1295105/typoerror-in-english-rules)
 
@@ -307,7 +404,7 @@ Just 4. You can use it for one type of building when placed, and a different one
 
 > I just played CoB for the first time the other night and a situation came up where I had filled all my knowledge tile spaces on my tableau but needed one more space. I had been focusing on shipping goods and the 1VP/sold good knowledge tile came up late game - which would have incidentally won me the game. Could I have discarded a knowledge tile from my tableau to accommodate buying and placing another?
 
-Page 8 of the rulesbook says, "Tiles added to an estate remain there until the end of the game."
+Page 8 of the rulebook says, "Tiles added to an estate remain there until the end of the game."
 
 [black-tile-setup-for-two-players](https://boardgamegeek.com/thread/2629713/black-tile-setup-for-two-players)
 
@@ -319,7 +416,7 @@ In a two-player game, put 4 black-backed tiles onto the 4 black spaces on the bo
 
 > Do you collect silver at the end of the game?
 
-Yes. According to the rulesbook, "A phase ends after five rounds, and players with mines now receive the corresponding number of Silverlings."
+Yes. According to the rulebook, "A phase ends after five rounds, and players with mines now receive the corresponding number of Silverlings."
 
 [starting-castle-section-completion](https://boardgamegeek.com/thread/1339905/starting-castle-section-completion)
 
@@ -360,7 +457,7 @@ Yes, you sure can. The only thing to remember is that a separate worker is used 
 
 [reference-to-a-tower-and-turn-order](https://boardgamegeek.com/thread/1724070/reference-to-a-tower-and-turn-order)
 
-> The second occurance of a rule relating to turn order indicates putting it on the "first" space -- which one would assume is the leftmost. However the next reference talks about order going from right to left, and seems to indicate that the rightmost disk on top of the stack will be the next first player...
+> The second occurrence of a rule relating to turn order indicates putting it on the "first" space -- which one would assume is the leftmost. However the next reference talks about order going from right to left, and seems to indicate that the rightmost disk on top of the stack will be the next first player...
 > So how about a clear exposition of the turn order and how the disks get moved?
 
 When a player places a ship into their estate, he/she will then take goods from any of the depots and place them in the upper left goods area. THEN he/she will move the token forward ONE SPACE. If that space is already occupied, they will place their marker on the top of this pile or "tower" of tokens. Play will then proceed by reading the turn order FIRST TO LAST on the lane and TOP TO BOTTOM on stacks.
@@ -402,7 +499,7 @@ Your turn = your 2 actions. You may take the black tile right before your 2 acti
 
 > My 2nd play and we tied, then we tied the tie breaker, so we went to the tie breaker breaker..... Is it the last person to play the first turn or the last person to play period?
 
-The last player who played, meaning the player who is the fartest behind on the player order track.
+The last player who played, meaning the player who is the fastest behind on the player order track.
 
 [yellow-tile-12-adjust-die-result-when-taking-tiles](https://boardgamegeek.com/thread/796898/yellow-tile-12-adjust-die-result-when-taking-tiles)
 
@@ -440,7 +537,7 @@ Yes of course. Same as above - these are two actions that needs both of your dic
 
 [where-does-your-starting-castle-go-on-the-advanced](https://boardgamegeek.com/thread/764393/where-does-your-starting-castle-go-on-the-advanced)
 
-> I've been looking through my rulebook a few times now to see if there is any mention since there are some that dont have a castle space with a 6 on them.
+> I've been looking through my rulebook a few times now to see if there is any mention since there are some that don't have a castle space with a 6 on them.
 
 Rulebook, page 12: Starting position does not need to have a 6. When playing with the full rules, including advanced boards, players can place their starting castle in any dark green hex.
 
@@ -451,7 +548,7 @@ Bottom of page three (3) of the rulebook says, "In the three-player game only, t
 
 [a-e-meanings-on-a-green-hexagon-on-the-game-board](https://boardgamegeek.com/thread/1369444/a-e-meanings-on-a-green-hexagon-on-the-game-board)
 
-> I saw green letters, A C E, and white letters B D on a green hexogan on the game board. I guess these letters imply some tile placing rule for 3-people play but have no ideas. What does it mean?
+> I saw green letters, A C E, and white letters B D on a green hexagon on the game board. I guess these letters imply some tile placing rule for 3-people play but have no ideas. What does it mean?
 
 It means that in a three-player game you put a green castle tile on it in phases A, C and E. And in phases B and D you put a grey (or silver) mine tile on it.
 
@@ -476,7 +573,7 @@ Only placing it in your estate. There's a separate knowledge tile that adjusts y
 [black-backed-six-sided-tiles-set-up](https://boardgamegeek.com/thread/1023964/black-backed-six-sided-tiles-set-up)
 
 > I am not sure how many black backed tiles should be placed during set-up.
-> The rules state " draw 2 to 8 tiles, depending on player number"...but the numbers on the board are 4x 2's, 2x 3's, and 2x 4's. So it doesnt make much sense to me. Anyone know?
+> The rules state " draw 2 to 8 tiles, depending on player number"...but the numbers on the board are 4x 2's, 2x 3's, and 2x 4's. So it doesn't make much sense to me. Anyone know?
 
 If there are two players, you fill the spaces marked "2". If there are 3 players you fill the spaces marked "2" & "3". If there are 4 players, you fill them all.
 
@@ -506,7 +603,7 @@ A region is only scored once when it's completed. it doesn't matter when you com
 
 > A question on buying black tiles with silvering that I get on the same turn?
 > For instance, at the beginning of my turn, let's pretend I got only 1 silvering originally.
-> During my turn, I had sold my commidity and received 1 silvering, so that I got 2 silverings now.
+> During my turn, I had sold my commodity and received 1 silvering, so that I got 2 silverlings now.
 > Can I buy any one of black tile with my 2 silvering then?
 
 You can buy a black market tile before you use your dice or after you use your dice, if you have the money at that time.
