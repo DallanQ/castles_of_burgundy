@@ -1,3 +1,51 @@
+## GAME IDEA
+
+The Loire Valley during the 15th Century. As influential princes, the 
+players devote their efforts to careful trading and building in order to 
+lead their estates to prominence. 
+Two dice set out the action options, but the players always make the final 
+choices. Whether trading or livestock farming, city building or scientific 
+research, many different paths lead to the prosperity and prominence of the 
+players!
+
+The many ways to gain victory points in this building game require careful 
+thought round after round along with extensive planning ahead. Thanks to 
+the different estates, the game remains challenging for the players for a long 
+time, as no two games play out alike.
+
+The winner is the player with the most victory points at the end of the 
+game.
+
+### GAME IDEA
+
+Players take on the roles of 15th 
+Century princes in Burgundy
+Over the course of 5 phases of play, 
+players collect the game-deciding 
+victory points via trading, livestock 
+farming, city building or scientific 
+research
+The player with the most victory 
+points at the end is the winner
+
+## GAME COMPONENTS164 six-sided tiles: 
+- 164 six-sided tiles:
+    - 7x 8 buildings (beige, 16x with black backs)  
+    - 7x 4 animals (light green, 8x with black backs) 
+    - 26x “knowledge” (yellow, 6x with black backs)   
+    - 16 castles (dark green, 2x with black backs)
+    - 12 mines (grey, 2x with black backs)
+    - 26 ships (blue, 6x with black backs)
+- 42 goods tiles (square, 7 in each of 6 colours) 
+- 20 “Silverlings” (eight-sided) 
+- 30 worker tiles (square) 
+- 12 bonus tiles (square, 1 small and 1 large in each of 6 colours)  
+- 4 victory point tiles (with 100 / 200 points in each of the 4 player colours)
+- 8 playing pieces (2 in each of the 4 player colours)
+- 9 dice (2 in each of the 4 player colours plus 1 white one)
+- 1 game board
+- 6 player boards (double-sided, 4x No. 1, 1 each of Nos. 2-9
+
 ## Game Setup (page 2)
 
 Place the **Gameboard** in the middle of the table. It shows:

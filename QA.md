@@ -213,9 +213,9 @@ The advanced rules on the back page of the rulebook outline the folllowing steps
 
 [adding-castles-to-your-estate](https://boardgamegeek.com/thread/1122512/adding-castles-to-your-estate)
 
-> In the rules, it states something like , all tiles must be adjacent to at least one tile already on your estate. Does this also apply to the castles?
+> In the rules, it states something like , all tiles must be adjacent to at least one tile already on your estate. Does this also apply to the castles?,  if so, the boards with adjacent castles would have an unfair advantage. Or is that not the case?
 
-Yes, the exact same placement rules apply to castles.
+Yes, the exact same placement rules apply to castles. Each board has its own strengths and weaknesses. Some have many small regions (good for quick, early scoring). Others have giant regions good for mega points later in the game. Some let you get money early, others focus on knowledge tiles. Having nearby castles is an advantage, but certainly not the only advantage you can have.
 
 [first-player](https://boardgamegeek.com/thread/2008605/first-player)
 
@@ -229,9 +229,9 @@ Yes. You will remain the first player until someone else moves ahead on the orde
 
 [castlesforest-regions](https://boardgamegeek.com/thread/2230222/castlesforest-regions)
 
-> Does the rule apply that you can only place one castle tile per region, unless you get the knowledge tile allowing multiple buildings of the same type?
+> Obviously castles are the only option for these regions but, does the rule apply that you can only place one castle tile per region, unless you get the knowledge tile allowing multiple buildings of the same type?
 
-No, this rules only apply for buildings (beig tiles). That specific knowledge tile does nothing for castles.
+No, this rules only apply for buildings (beig tiles).The term "Building" only referes to the brown tiles. That specific knowledge tile does nothing for castles.
 
 [board-post-bonus-tile-in-special-edition](https://boardgamegeek.com/thread/3031425/board-post-bonus-tile-in-special-edition)
 
@@ -281,8 +281,7 @@ Yes, they do.
 
 [player-order-timing](https://boardgamegeek.com/thread/2074723/player-order-timing)
 
-> On a players first action in a round they place a boat from their supply onto their estate, they move their turn player marker, which is now on top of another players turn marker. The player who's turn marker is at the bottom doesn't move theirs, and both players are not the first turn player.
-> Does the game turn order change there and then, or only at the start of another round or phase.
+> On a players first action in a round they place a boat from their supply onto their estate, they move their turn player marker, which is now on top of another players turn marker. The player who's turn marker is at the bottom doesn't move theirs, and both players are not the first turn player. Does the game turn order change there and then, or only at the start of another round or phase.
 
 A player uses both dice (+ one optional purchase from black depot), THEN it’s the next player’s turn.
 Turn order only changes between rounds.
@@ -324,7 +323,7 @@ Yes. According to the rulesbook, "A phase ends after five rounds, and players wi
 
 [starting-castle-section-completion](https://boardgamegeek.com/thread/1339905/starting-castle-section-completion)
 
-> If I play my opening castle on one of the two castle sections, when I play my second castle and complete the section, do I score full points for completing a two-hex section? Or do I only score it as completing a one-hex section?
+> Using the optional rules, players are allowed to place their opening castle on any dark green hex. Some of the boards have two or three castle hexes grouped together. If I play my opening castle on one of the two castle sections, when I play my second castle and complete the section? or do I score full points for completing a two-hex section? Or do I only score it as completing a one-hex section?
 
 You will score the full points.
 
@@ -332,7 +331,7 @@ You will score the full points.
 
 [board-1-had-12-beige-spaces-but-does-scoring-max-a](https://boardgamegeek.com/thread/3212782/board-1-had-12-beige-spaces-but-does-scoring-max-a)
 
-> There are 12 hexes of beige on board 1. Would it max out at 36 + the round score plus any bonus tile? Or would I get the max 36 + 10 + round score plus bonus tile
+> Scoring the colors when you cover all of the beige. There are 12 hexes of beige on board 1. Would it max out at 36 + the round score plus any bonus tile? Or would I get the max 36 + 10 + round score plus bonus tile
 
 You get the following for covering all of a contiguous area, based on the size of the area (not how many spaces are on the board in total):
 * You would get 1 point + Round bonus for the size 1 area up and left of the central Castle
@@ -401,8 +400,7 @@ Your turn = your 2 actions. You may take the black tile right before your 2 acti
 
 [tie-breaker-tie-breaker-breaker](https://boardgamegeek.com/thread/1626512/tie-breaker-tie-breaker-breaker)
 
-> My 2nd play and we tied, then we tied the tie breaker, so we went to the tie breaker breaker.....
-> Is it the last person to play the first turn or the last person to play period?
+> My 2nd play and we tied, then we tied the tie breaker, so we went to the tie breaker breaker..... Is it the last person to play the first turn or the last person to play period?
 
 The last player who played, meaning the player who is the fartest behind on the player order track.
 
@@ -432,7 +430,7 @@ If the second player moved up one space and shares the space with the person in 
 
 [putting-tiles-on-your-estate](https://boardgamegeek.com/thread/905196/putting-tiles-on-your-estate)
 
-> (f you use a die to pull a tile off the main board and you have open spots in your holding area, can you immediately put it on your estate?
+> If you use a die to pull a tile off the main board and you have open spots in your holding area, can you immediately put it on your estate?
 
 Yes, you can. But taking a die off the main board and placing it in your estate are two separate actions and would require two dice.
 
@@ -442,7 +440,12 @@ Yes of course. Same as above - these are two actions that needs both of your dic
 
 [where-does-your-starting-castle-go-on-the-advanced](https://boardgamegeek.com/thread/764393/where-does-your-starting-castle-go-on-the-advanced)
 
-> Could anyone tell me whats with the 3 castle space on the main board near the 6 depot? It has ABCDE on either side of it and in different colors.
+> I've been looking through my rulebook a few times now to see if there is any mention since there are some that dont have a castle space with a 6 on them.
+
+Rulebook, page 12: Starting position does not need to have a 6. When playing with the full rules, including advanced boards, players can place their starting castle in any dark green hex.
+
+
+> Can you tell me whats with the 3 castle space on the main board near the 6 depot? It has ABCDE on either side of it and in different colors.
 
 Bottom of page three (3) of the rulebook says, "In the three-player game only, there is an exception for the dark green space in the No. 6 depot: In phases A, C and E a castle is placed onto it as normal, but in phases B and D a mine (grey) is placed there instead!"
 
@@ -461,6 +464,7 @@ Both knowledge tiles "pay off" on that turn, so you would get 2 coins and a work
 [knowledge-tile-11-clarification](https://boardgamegeek.com/thread/2206430/knowledge-tile-11-clarification)
 
 > So knowledge tile 11 says "The player who adds this tile to his estate may adjust all die results being used to place castles, mines or "knowledge" (dark green, grey or yellow tiles) by +/- 1, just as if he had used a worker tile for them."
+
 > Does the +/- 1 only apply when you place a new castle, mine, and knowledge in your estate? Or does placing a tile in your staging area apply as well?
 
 Only placing it in your estate. There's a separate knowledge tile that adjusts your dice for placing a tile in your staging area.
@@ -514,7 +518,8 @@ The only timing restriction is that if you have a tile that gives you an additio
 
 [completed-region-scoring-and-bonus-tiles](https://boardgamegeek.com/thread/2594272/completed-region-scoring-and-bonus-tiles)
 
-> if a tile covers the very last field of all the fields in one color (player completes a region), he gets the according bonus tile (1st place or 2nd place) - but does he then get the other scores as well?
+> I understand that a player gets two scores whenever he completes a region:
+1) depending on its size (1 to 8 spaces), the completed region scores between 1 and 36 victory points, 2) depending on the phase the completed region scores between 10 and 2 victory points. Now my question is, if a tile covers the very last field of all the fields in one color (player completes a region), he gets the according bonus tile (1st place or 2nd place) - but does he then get the other scores as well?
 
 Yes, you get the normal scoring plus the bonus score.
 
