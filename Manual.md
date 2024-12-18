@@ -381,7 +381,7 @@ Player takes 4 worker tiles
 
 When a player adds a bank to his estate, he immediately takes 2 Silverlings from the general supply and adds them to his own.
 
-> an image white 2 storybuilding with red zinc and silerlings are tiles with a silver-like shape at the top
+> An image white 2 storybuilding with red zinc and silerlings are tiles with a silver-like shape at the top
 
 ##### Bank Overview (page 7)
 
